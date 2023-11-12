@@ -1,4 +1,4 @@
-## Hailton Reis, desenvolvedor de sistemas Web!
+## Hailton Reis - Java / Angular!
 <div align="center">
   <a href="https://github.com/hailtonreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hailtonreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
